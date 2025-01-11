@@ -6,4 +6,4 @@ it looks like this inside the book
 ![](clasicbook2.JPG)
 ![](clasicbook3.JPG)
 ![](clasicbook4.JPG)
-1[](clasicbook5.JPG)
+![](clasicbook5.JPG)
