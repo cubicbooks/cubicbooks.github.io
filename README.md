@@ -16,3 +16,6 @@ it looks like this inside the book
 our next book is about a new york bus
 ![](busbook1.JPG)
 ![](busbook2.JPG)
+![](busbook3.JPG)
+![](busbook4.jpg)
+![](busbook5.jpg)
