@@ -10,3 +10,5 @@ it looks like this inside the book
 ![](clasicbook5.JPG)
 ---
 our next book is about a new york bus
+![](busbook1.JPG)
+![](busbook2.JPG)
